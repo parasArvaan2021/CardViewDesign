@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardViewDesign</string>
+
+    <string name="fcard_heading">Quisque Sapien Lorem</string>
+    <string name="fcard_heading_des">A layout that arranges other views either horizontally in a single column or vertically in a single row.</string>
+    <string name="fourth_card_heading_des">A layout that arranges other views either horizontally.</string>
+    <string name="layout_heading">Aliquet Et \nAnte</string>
+</resources>
